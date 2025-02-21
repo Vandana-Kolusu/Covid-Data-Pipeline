@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-vakolusu",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9b6af81c-a251-4209-bd23-246b7a9109e3",
+		"tenantId": "6f8f7c8b-7bc5-4825-84ca-f95099945764"
+	}
+}
